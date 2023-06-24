@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/igor/Documentos/Projetos/C#/CursoCSharp/CursoCSharp.csproj",
+      "projectUniqueName": "/home/igor/Documentos/Projetos/C#/Clone/ExerciciosCSharp/CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "/home/igor/Documentos/Projetos/C#/CursoCSharp/CursoCSharp.csproj",
+      "projectPath": "/home/igor/Documentos/Projetos/C#/Clone/ExerciciosCSharp/CursoCSharp.csproj",
       "packagesPath": "/home/igor/.nuget/packages/",
-      "outputPath": "/home/igor/Documentos/Projetos/C#/CursoCSharp/obj/",
+      "outputPath": "/home/igor/Documentos/Projetos/C#/Clone/ExerciciosCSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/igor/.nuget/NuGet/NuGet.Config"
